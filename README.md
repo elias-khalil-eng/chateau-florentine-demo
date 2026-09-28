@@ -1,7 +1,7 @@
 # Château Florentine: Winery Website Concept
 
 A single-page website concept for Château Florentine, a family winery in
-Majdel Maouche (Chouf, Lebanon). Built as a design demo to show the winery how
+Majdel Meouch (Chouf, Lebanon). Built as a design demo to show the winery how
 its story, wines and tastings could be presented online.
 
 ![Château Florentine homepage](docs/screenshot.jpg)
